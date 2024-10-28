@@ -21,5 +21,6 @@ Technical Details
 ## State Management:
 The application uses the GetX and StateMixin packages for state management, ensuring a clean and organized codebase.
 
-<Image src="![sc1](https://github.com/user-attachments/assets/ec67f370-20d0-44e4-a2c2-441b19621e4e)" width ="300" height="480"><Image src="![sc2](https://github.com/user-attachments/assets/6450134d-a812-4c93-96ee-57f6113bf1ba)
+<Image src="![sc1](https://github.com/user-attachments/assets/c9193817-2359-475f-8dba-2cb0f606b82e)
+" width ="300" height="480">  <Image src="![sc2](https://github.com/user-attachments/assets/6450134d-a812-4c93-96ee-57f6113bf1ba)
 " width ="300" height="480"> 
